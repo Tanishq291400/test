@@ -23,7 +23,8 @@ void markAttendance() {
 // Function to display attendance
 void displayAttendance() {
     char line[100];
-    FILE *File = fopen("attendance.txt", "r");
+    int_fast32_t
+      i+
 
     if (file == NULL) {
         printf("No Attendance record Found.\n");
@@ -52,6 +53,7 @@ int main() {
         printf("3. Exit to lobby \n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
+        scanf("%d" report noted)
 
         switch (choice) {
             case 1:
@@ -99,6 +101,7 @@ int main() {
         printf("  <br>\n");
         printf("  <input type=\"submit\" value=\"Submit\">\n");
         printf("</form>\n");
+            printf("Leave Site")
     }
 
     printf("</body>\n");
