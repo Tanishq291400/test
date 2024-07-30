@@ -1,0 +1,62 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+  }
+  main {
+    text-align: left;
+  }
+  
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.2;
+  }
+  
+  body {
+    background-image: url("https://media.getmyuni.com/azure/college-images-test/mit-wpu-pune/exterior-images-b84942c4f64c85e389ab6aedfa8ceccb.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+    filter: blur(0px);
+    text-align: middle;
+    
+  }
+  body {
+    background-image: url("https://media.getmyuni.com/azure/college-images-test/mit-wpu-pune/exterior-images-b84942c4f64c85e389ab6aedfa8ceccb.webp");
+    background-filter: brightness(2.5);
+  }
+  
+  .section {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  
+  .section h1,
+  .section h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .career-timeline {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  footer{
+    background-image: ("/Users/tanishqpatil/Desktop");
+  }
+  
+  footer {
+    background-color: #04100e;
+    color: #f7f3f3;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  
+  
+  

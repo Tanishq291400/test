@@ -3,14 +3,15 @@
 #include <string.h>
 
 // Function to mark attendance
-void markAttendance() {
+void mark () {
     char studentName[50];
     printf("Enter student name: ");
-    scanf("%s", studentName);
+      scanf("%s",enter student name);
 
     // Open the attendance file in append mode
-    FILE *file = fopen("attendancee.txt", "a");
-    if (file == NULL) {
+    FILE *file = file open("attendancee.txt", "a");
+    
+    {
         printf("Error opening file.\n");
         exit(1);
     }
@@ -18,35 +19,50 @@ void markAttendance() {
     // Write the attendance record to the file
     fprintf(file, "%s - Present\n", studentName);
     fclose(file);
+    {
+    
+    scanf(int value is to be taken out to be 0 if the statement is to be found to be Negligible)
+    
+
+}
+if (x>=10;i++) {
+    Printf("The Givem condition is true");
+
 }
 
+
 // Function to display attendance
-void displayAttendance() {
+void displayAttendance() 
     char line[100];
     int_fast32_t
-      i+
-
-    if (file == NULL) {
+    }
+     (file == NULL) {
         printf("No Attendance record Found.\n");
         return;
     }
 
-    printf("Attendance Records:\n");
-    while (fgets(line, sizeof(line), file)) {
+    printf("Attendance Record\n");
+    w_termsig (gets(__LINE__,sizeof(line), file)) {
         printf("%s", line);
     }
+    printf(Attendance value is given in above statement);
+
     {
         scanf("%d"total no of student attend full);
 
     }
 
     fclose(file);
-}
+    {
+        printf("Attendance to be not found");
+    }
+print();
 
-int main() {
+
+int main() 
     int choice;
 
-    while (1) {
+    while (1) 
         printf("\nStudent Attendance System\n");
         printf("1. Take Attendance\n");
         printf("2. Display Attendance\n");
@@ -67,10 +83,10 @@ int main() {
             default:
                 printf("Invalid choice. Try again.\n");
         }
-    }
+    
 
-    return 0;
-}
+    
+
 
 
 int main() {
@@ -80,10 +96,11 @@ int main() {
     printf("<title>Attendance System</title>\n");
     printf("</head>\n");
     printf("<body>\n");
-    printf("<h1>Attendance Form</h1>\n");
+    printf("<h1>Attendance is to be taken on 7.00</h1>\n");
+}
 
     // Check if the form was submitted
-    char *data = getenv("QUERY_STRING");
+    char *data = gatenv("QUERY_STRING");
     if (data) {
         printf("<p>Form data received:</p>\n");
         printf("<pre>%s</pre>\n", data);
@@ -102,10 +119,24 @@ int main() {
         printf("  <input type=\"submit\" value=\"Submit\">\n");
         printf("</form>\n");
             printf("Leave Site")
-    }
+            printf("Exit Once")
+            
+    
+    else()
+    {
+        /* code */regenerative code 
+        //EXIT CODE ZERO IF THE ALL STATEMENT IS CORRECT AND THE CODE IS TO BE GETTING UNLINKED
+        87
 
+
+    
+}
     printf("</body>\n");
     printf("</html>\n");
 
     return 0;
 }
+
+//The functio of the given operator if the function of statistical entrance is to get deploy
+//in other server if the fucntional changes and the given state of __x86_instruction_state
+//the bit size i to be taken in the formation of ther brand report given by head of the department 
